@@ -49,8 +49,13 @@ Les variables sont standardisées avant les calculs de distance. Deux versions s
 │   ├── README.md
 │   ├── Pumpkin_Seeds_Dataset/
 │   │   ├── Pumpkin_Seeds_Dataset.arff
-│   │   └── Pumpkin_Seeds_Dataset.xlsx
-│   └── *.csv
+│   │   ├── Pumpkin_Seeds_Dataset.xlsx
+│   │   └── Pumpkin_Seeds_Dataset_Citation_Request.txt
+│   ├── pumpkin_preprocessed_12.csv
+│   ├── pumpkin_preprocessed_8.csv
+│   ├── pumpkin_selected_12_raw.csv
+│   ├── pumpkin_selected_8_raw.csv
+│   └── repartition de taches.pdf
 └── README.md
 ```
 
