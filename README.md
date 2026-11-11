@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Analyse de données — Clustering de graines de courge
 
 Projet académique réalisé dans le cadre du TP1 d'analyse de données. L'objectif est d'identifier une structure naturelle dans un jeu de données décrivant **2 500 graines de courge** à partir de mesures géométriques.
@@ -79,3 +80,6 @@ Projet réalisé par le **groupe K** dans le cadre du Master 1.
 ## Licence
 
 Ce dépôt est destiné à un usage académique. Les données restent soumises aux conditions de leur source originale.
+=======
+# analyse-clustering-pumpkin-seeds
+>>>>>>> origin/main
