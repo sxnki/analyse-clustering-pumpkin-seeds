@@ -44,14 +44,18 @@ Les variables sont standardisées avant les calculs de distance. Deux versions s
 
 ```text
 .
-├── TP1_livrable_ultime_propre/
-│   ├── ANADON_TP1_final.ipynb
-│   ├── README_TP1.md
+├── ANADON_TP1_complet/
+│   ├── ANADON_TP1_complet.ipynb
+│   ├── README.md
+│   ├── Pumpkin_Seeds_Dataset/
+│   │   ├── Pumpkin_Seeds_Dataset.arff
+│   │   └── Pumpkin_Seeds_Dataset.xlsx
 │   └── *.csv
 └── README.md
 ```
 
-Le notebook final se trouve dans [`TP1_livrable_ultime_propre/ANADON_TP1_final.ipynb`](./TP1_livrable_ultime_propre/ANADON_TP1_final.ipynb).
+Le notebook du TP1 se trouve dans [`ANADON_TP1_complet/ANADON_TP1_complet.ipynb`](./ANADON_TP1_complet/ANADON_TP1_complet.ipynb).
+Le fichier Excel original utilisé par le notebook se trouve dans [`ANADON_TP1_complet/Pumpkin_Seeds_Dataset/Pumpkin_Seeds_Dataset.xlsx`](./ANADON_TP1_complet/Pumpkin_Seeds_Dataset/Pumpkin_Seeds_Dataset.xlsx).
 
 ## Installation et exécution
 
@@ -63,7 +67,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn scipy jupyter openpyxl
 
 Puis ouvrir le notebook et exécuter les cellules dans l'ordre, idéalement avec **Run All**.
 
-Les fichiers CSV présents dans le dossier du livrable permettent de reproduire l'analyse déjà préparée. Pour plus de détails sur les fichiers attendus et les problèmes fréquents, consulter [`README_TP1.md`](./TP1_livrable_ultime_propre/README_TP1.md).
+Les fichiers CSV présents dans le dossier du TP1 permettent de reproduire l'analyse déjà préparée. Pour plus de détails sur les fichiers attendus et les problèmes fréquents, consulter [`README.md`](./ANADON_TP1_complet/README.md).
 
 ## Jeu de données et citation
 
