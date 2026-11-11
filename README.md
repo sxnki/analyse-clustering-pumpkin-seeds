@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Analyse de données — Clustering de graines de courge
 
 Projet académique réalisé dans le cadre du TP1 d'analyse de données. L'objectif est d'identifier une structure naturelle dans un jeu de données décrivant **2 500 graines de courge** à partir de mesures géométriques.
@@ -22,11 +21,11 @@ Les trois méthodes font apparaître deux profils géométriques principaux :
 
 La séparation reste progressive : les groupes décrivent des tendances et non deux catégories parfaitement isolées.
 
-| Méthode | Groupes | Silhouette | Calinski-Harabasz |
-|---|---:|---:|---:|
-| K-means | 2 | 0,306 | 1 106,5 |
-| Ward | 2 | 0,231 | 810,2 |
-| Spectral | 2 | 0,282 | 1 056,0 |
+| Méthode  | Groupes | Silhouette | Calinski-Harabasz |
+| -------- | ------: | ---------: | ----------------: |
+| K-means  |       2 |      0,306 |           1 106,5 |
+| Ward     |       2 |      0,231 |             810,2 |
+| Spectral |       2 |      0,282 |           1 056,0 |
 
 La partition retenue est celle de **K-means avec 2 groupes et 8 variables**. Le clustering spectral confirme globalement cette structure, tandis que l'approche hiérarchique apporte une lecture visuelle grâce au dendrogramme.
 
@@ -68,7 +67,7 @@ Les fichiers CSV présents dans le dossier du livrable permettent de reproduire 
 
 ## Jeu de données et citation
 
-> Koklu, M., Sarigil, S., & Ozbek, O. (2021). *The use of machine learning methods in classification of pumpkin seeds (Cucurbita pepo L.)*. Genetic Resources and Crop Evolution, 68(7), 2713–2726.  
+> Koklu, M., Sarigil, S., & Ozbek, O. (2021). _The use of machine learning methods in classification of pumpkin seeds (Cucurbita pepo L.)_. Genetic Resources and Crop Evolution, 68(7), 2713–2726.  
 > https://doi.org/10.1007/s10722-021-01226-0
 
 Jeu de données : [muratkoklu.com/datasets](https://www.muratkoklu.com/datasets/).
@@ -79,7 +78,6 @@ Projet réalisé par le **groupe K** dans le cadre du Master 1.
 
 ## Licence
 
-Ce dépôt est destiné à un usage académique. Les données restent soumises aux conditions de leur source originale.
-=======
+# Ce dépôt est destiné à un usage académique. Les données restent soumises aux conditions de leur source originale.
+
 # analyse-clustering-pumpkin-seeds
->>>>>>> origin/main
