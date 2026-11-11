@@ -74,7 +74,7 @@ Jeu de données : [muratkoklu.com/datasets](https://www.muratkoklu.com/datasets/
 
 ## Auteurs
 
-Projet réalisé par le **groupe K** dans le cadre du Master 1.
+Projet réalisé par MEZIANE dans le cadre du Master 1.
 
 ## Licence
 
