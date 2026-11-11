@@ -54,8 +54,7 @@ Les variables sont standardisées avant les calculs de distance. Deux versions s
 │   ├── pumpkin_preprocessed_12.csv
 │   ├── pumpkin_preprocessed_8.csv
 │   ├── pumpkin_selected_12_raw.csv
-│   ├── pumpkin_selected_8_raw.csv
-│   └── repartition de taches.pdf
+│   └── pumpkin_selected_8_raw.csv
 └── README.md
 ```
 
